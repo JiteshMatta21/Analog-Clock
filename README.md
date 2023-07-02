@@ -1,4 +1,4 @@
-# WebDevelopment
+# WebDevelopment Analog Clock using Javascript
 
 In this project, I learn many new concepts.
 Majorly, I learned about how to move the clock hands with respect of the center of dial using javascript.
@@ -10,5 +10,5 @@ I'm using the following formulas for movements of hour,minute and second hands i
    Challenging part is to adjust the hands to move around the dial for which I uses the CSS property called transform.origin which help in revolving the hands around dialer with bottom setting.
    Reference link 'https://www.w3schools.com/cssref/css3_pr_transform-origin.php' for more details
 
-   This project help me in understanding and interpreting practical use of mathematics concepts like degrees and hour-minute-second conversions and basic formulas.
+   This project helped me in understanding and interpretation of practical use of mathematical concepts like degrees and hour-minute-second conversions and basic formulas.
    
